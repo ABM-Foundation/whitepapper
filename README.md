@@ -16,8 +16,8 @@ Welcome to the official **ABM (ABAKUM) Whitepaper** repository. ABM is a next-ge
 
 ## Community & Links
 Stay updated and join the ABM community:  
-- **Website:** [[Insert Link](https://abmfoundation.ru)]  
-- **Telegram:** [[Insert Link](https://t.me/abm_fund)]    
+- **Website:** [[Link](https://abmfoundation.ru)]  
+- **Telegram:** [[Link](https://t.me/abm_fund)]    
 - **Medium:** [[Link](https://medium.com/@glockinmybape1)]
 - **Instagram:** [[Link](https://www.instagram.com/alphablockchainmoney?igsh=a3dhcnh5MWE1dmYy&utm_source=qr)]  
 
